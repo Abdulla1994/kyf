@@ -9,6 +9,6 @@
     Konullu Yardim fondunun Saytina Xoc Gelmisinz
 </h1>
 <br/>
-
+<a href="register-request">Muraciet Formasi</a>
 </body>
 </html>

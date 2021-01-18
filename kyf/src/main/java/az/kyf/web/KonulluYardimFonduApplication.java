@@ -1,4 +1,4 @@
-package az.kyf;
+package az.kyf.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
